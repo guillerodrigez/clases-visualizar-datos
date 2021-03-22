@@ -2,6 +2,4 @@
 
 Este es mi *proyecto* de **Periodismo de Datos II**.
 
-* Un elemento del listado
-* Otro elemento
-* [Enlace](https://google.es)
+https://guillerodrigez.github.io/clases-visualizar-datos/index.html
