@@ -1,5 +1,5 @@
 # Periodismo de Datos II
 
-Este es mi *proyecto* de **Periodismo de Datos II**.
+Mejores visualizaciones
 
 https://guillerodrigez.github.io/clases-visualizar-datos/index.html
