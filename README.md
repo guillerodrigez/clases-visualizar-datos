@@ -1,5 +1,5 @@
 # Periodismo de Datos II
 
-Mejores visualizaciones:
+Mejores visualizaciones: análisis cualitativo			
 
 https://guillerodrigez.github.io/clases-visualizar-datos/index.html
